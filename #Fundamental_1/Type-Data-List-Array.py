@@ -29,3 +29,4 @@ for ribet in range(0, len(anak)):
 
 
 
+
