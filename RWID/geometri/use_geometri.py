@@ -10,3 +10,4 @@ print(f'hitug_luas_segitiga {hitung_luas_persegi_panjang(12,10)}')
 print(spasi())
 print(info_1())
 print(f'Hitung Luas Persegi Panjang {hitug_luas_segitiga(11,12)}')
+

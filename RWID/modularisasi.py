@@ -18,3 +18,5 @@ def hitug_luas_segitiga(alas, tinggi):
     return luas_segetiga
 print(f'Menghitung segitiga dengan fungsi, hasilnya = {hitug_luas_segitiga(10,6)}')
 print(f'Menghitung segitiga dengan fungsi, hasilnya = {hitug_luas_segitiga(20,6)}')
+
+ 
